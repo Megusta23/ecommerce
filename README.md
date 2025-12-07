@@ -1,6 +1,6 @@
 # About this project
 
-This prototype was built for educational purposes — to learn and experiment with building a modern e-commerce front-end using Next.js and related technologies.
+This prototype was built for educational purposes to learn and experiment with building a modern e-commerce front-end using Next.js and related technologies.
 
 Technologies used:
 
@@ -9,7 +9,7 @@ Technologies used:
 - Node.js
 - Vercel (deployment)
 - CSS / any CSS-in-JS or UI libraries you used locally (e.g., Tailwind, styled-components)
-- Any other libraries you integrated (e.g., Stripe, Prisma) — update as needed
+- Any other libraries you integrated (e.g., Stripe, Prisma) 
 
 Live preview
 
