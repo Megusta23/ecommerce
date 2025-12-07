@@ -1,3 +1,22 @@
+# About this project
+
+This prototype was built for educational purposes — to learn and experiment with building a modern e-commerce front-end using Next.js and related technologies.
+
+Technologies used:
+
+- Next.js (React framework)
+- React
+- Node.js
+- Vercel (deployment)
+- CSS / any CSS-in-JS or UI libraries you used locally (e.g., Tailwind, styled-components)
+- Any other libraries you integrated (e.g., Stripe, Prisma) — update as needed
+
+Live preview
+
+- https://ecommerce-prototype-9fncv7f4f-megusta23.vercel.app/
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
